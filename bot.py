@@ -26,7 +26,7 @@ USER_ID   = int(os.getenv("USER_ID", "0"))  # Ваш Telegram ID
 # Скины: название → порог уведомления (% изменения за 24ч)
 SKINS_TO_TRACK: dict[str, float] = {
     "M4A4 | Evil Daimyo (Minimal Wear)":          5.0,
-    "M4A4 | Tooth Fairy (Minimal Wear)":           5.0,
+    "M4A4 | Zubastick (Minimal Wear)":           5.0,
     "M4A4 | Magnesium (Minimal Wear)":             5.0,
     "AK-47 | Rat Rod (Well-Worn)":                 5.0,
     "Desert Eagle | Mulberry (Field-Tested)":   5.0,
